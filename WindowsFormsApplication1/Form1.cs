@@ -20,6 +20,15 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             //11111111111
+            int y = 22;
+            MessageBox.Show($"y========{y}");
+
+
         }
+
+
+
+
+
     }
 }
